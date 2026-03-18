@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** [Gabriel Brito Dos Santos]
+**Matrícula:** [20261100113]
 ---
 
 ## 🎯 Objetivo
@@ -49,10 +49,10 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 > Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** Em tese o loop devera repetir 6 vezes e com angulo de 60 cada um. A quantidade e a angulação vem da definição que um hexagono REGULAR é formado por 6 triangulos equilateros, onde pelas propriedades do triangulo equilatero seus angulos são equivalentes. Sendo assim, todos angulos do triangulo equilatero valerão 60 graus, e como um hexagono são 6 triangulos logo o loop vai fazer 6 linhas com a envergação de 60 graus cada um.
   
-**B)** Escreva aqui...
+**B)** utilizando o circulo trigonometrico como base o certo seria cada hexagono ter uma diferença de 90 graus. 0, 90, 180, 270.
   
-**C)** Escreva aqui...
+**C)** usei a noção de geometria plana e trigonometria para formar os hexagonos e organizar eles conforme o comando da questão.
 
 ---
